@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.amazonaws.eclipse.lambda.launching.samLocal">
+    <stringAttribute key="action" value="start-api"/>
+    <stringAttribute key="code-uri" value="./target/demo-1.0.0.jar"/>
+    <stringAttribute key="debug-port" value="5858"/>
+    <stringAttribute key="host" value="127.0.0.1"/>
+    <stringAttribute key="lambda-id" value="Lambda function not found..."/>
+    <stringAttribute key="maven-goals" value="clean package"/>
+    <stringAttribute key="port" value="3000"/>
+    <stringAttribute key="profile" value="default"/>
+    <stringAttribute key="project" value="lambdatoolkit1"/>
+    <stringAttribute key="region" value="us-east-1"/>
+    <stringAttribute key="sam" value="/usr/local/bin/sam"/>
+    <stringAttribute key="timeout" value="300"/>
+</launchConfiguration>

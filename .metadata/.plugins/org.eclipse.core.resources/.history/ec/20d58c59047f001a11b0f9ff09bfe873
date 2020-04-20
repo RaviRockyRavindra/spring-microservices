@@ -1,0 +1,38 @@
+package com.example.demo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@RefreshScope
+@RestController
+public class controller {
+
+	@Value("$(msg:not working)")
+	private String value;
+	
+	List<String> list= new ArrayList<String>();
+	
+	@GetMapping("/states")
+	private List<String> done()
+	{
+		
+		list.add("india");
+		list.add("canada");
+		list.add("australia");
+		
+		return list;
+		
+	}
+	
+	@GetMapping("/value")
+	private String value()
+	{
+		return this.value;
+	}
+	
+}

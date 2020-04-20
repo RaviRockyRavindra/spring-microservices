@@ -1,0 +1,94 @@
+package com.cts.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.cts.entity.Emart_Users_Buyers;
+import com.cts.repo.UserCrudRepo;
+
+@RestController
+public class UserCredentials 
+{
+
+	String SUCCESS="success";
+	@Autowired
+	UserCrudRepo usercrudrepo;
+	
+	@PostMapping(value="/buyerregister")
+	public String Register(@RequestParam String Username, @RequestParam String password,@RequestParam String role) 
+	{
+	
+		Emart_Users_Buyers users = new Emart_Users_Buyers();
+		
+		users.setUserName(Username);
+		
+		users.setPassword(password);
+		
+		users.setRole(role);
+		
+		usercrudrepo.save(users);
+		
+		return SUCCESS;
+		
+	}
+	
+	@PostMapping(value="/buyerlogin")
+	public String Register(@RequestParam String Username, @RequestParam String password) 
+	{
+	
+		Emart_Users_Buyers users = new Emart_Users_Buyers();
+		
+		users.setUserName(Username);
+		
+		users.setPassword(password);
+		
+		users.setRole(role);
+		
+		usercrudrepo.save(users);
+		
+		return SUCCESS;
+		
+	}
+	
+	@PostMapping(value="/sellerregister")
+	public String Register(@RequestParam String Username, @RequestParam String password,@RequestParam String role) 
+	{
+	
+		Emart_Users_Buyers users = new Emart_Users_Buyers();
+		
+		users.setUserName(Username);
+		
+		users.setPassword(password);
+		
+		users.setRole(role);
+		
+		usercrudrepo.save(users);
+		
+		return SUCCESS;
+		
+	}
+	
+	@PostMapping(value="/sellerlogin")
+	public String Register(@RequestParam String Username, @RequestParam String password) 
+	{
+	
+		Emart_Users_Buyers users = new Emart_Users_Buyers();
+		
+		users.setUserName(Username);
+		
+		users.setPassword(password);
+		
+		users.setRole(role);
+		
+		usercrudrepo.save(users);
+		
+		return SUCCESS;
+		
+	}
+	
+	
+	
+	
+}

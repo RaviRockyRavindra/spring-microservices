@@ -1,0 +1,21 @@
+server:
+  port: 8086
+    
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+     defaultZone: http://localhost:8700/eureka
+  instance:
+    hostname: localhost
+    
+    
+zuul:
+ host:
+ routes:
+   String:
+     path: /resource/*
+     serviceId: states
+     stripPrefix: true    
+       

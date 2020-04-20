@@ -1,0 +1,240 @@
+2020-03-10 15:34:55,337 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-10 15:36:05,362 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:4.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1/pom.xml.
+2020-03-10 15:36:06,283 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/main/java
+2020-03-10 15:36:06,286 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/main/resources
+2020-03-10 15:36:06,288 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/test/java
+2020-03-10 15:36:06,288 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/test/resources
+2020-03-10 15:36:13,534 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-10 15:36:14,800 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1/pom.xml.
+2020-03-10 15:36:15,716 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/main/java
+2020-03-10 15:36:15,716 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/main/resources
+2020-03-10 15:36:15,722 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/test/java
+2020-03-10 15:36:15,722 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/test/resources
+2020-03-10 15:36:16,505 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-03-10 15:36:17,329 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:36:17,340 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:36:17,352 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:36:17,353 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:44:26,654 [Worker-15: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 15:44:26,656 [Worker-15: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 15:45:13,140 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:45:13,149 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:45:13,151 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:45:13,152 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:46:49,662 [Worker-21: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 15:46:49,665 [Worker-21: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 15:46:58,901 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:46:58,904 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:46:58,906 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:46:58,908 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:48:18,268 [Worker-13: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 15:48:18,271 [Worker-13: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 15:48:21,015 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:48:21,017 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:48:21,019 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:48:21,020 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:48:31,575 [Worker-25: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 15:48:31,576 [Worker-25: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 15:48:40,812 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:48:40,816 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:48:40,820 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:48:40,822 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:55:13,404 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-10 15:55:13,969 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1/pom.xml.
+2020-03-10 15:55:14,404 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/main/java
+2020-03-10 15:55:14,404 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/main/resources
+2020-03-10 15:55:14,405 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/test/java
+2020-03-10 15:55:14,405 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/test/resources
+2020-03-10 15:55:14,672 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-10 15:55:15,060 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:55:15,063 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:55:15,067 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:55:15,068 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:56:41,445 [Worker-32: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 15:56:41,445 [Worker-32: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 15:56:49,559 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:56:49,565 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 15:56:49,567 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 15:56:49,568 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:02:27,414 [Worker-39: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:02:27,414 [Worker-39: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 16:02:29,654 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:02:29,656 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:02:29,658 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:02:29,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:04:59,657 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:04:59,660 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:04:59,661 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:04:59,664 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:05:11,173 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:05:11,175 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:05:11,176 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:05:11,177 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:05:17,210 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:05:17,218 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:05:17,221 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:05:17,224 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:06:26,804 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:06:26,816 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:06:26,818 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:06:26,819 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:06:35,135 [Worker-42: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:06:35,135 [Worker-42: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 16:06:43,728 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:06:43,731 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:06:43,735 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:06:43,736 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:10:31,801 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:10:31,803 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:10:31,805 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:10:31,806 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:16:24,191 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:16:24,198 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:16:24,200 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:16:24,202 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:21:10,030 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:21:10,037 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:21:10,039 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:21:10,042 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:21:49,435 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:21:49,436 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:21:49,440 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:21:49,441 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:25:48,699 [Worker-48: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:25:48,699 [Worker-48: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 16:25:51,068 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:25:51,072 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:25:51,073 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:25:51,076 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:26:00,395 [Worker-51: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:26:00,395 [Worker-51: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 16:26:09,832 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:26:09,836 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:26:09,837 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:26:09,839 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:29:58,390 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:29:58,397 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:29:58,399 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:29:58,415 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:31:59,434 [Worker-55: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:31:59,434 [Worker-55: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 16:32:06,867 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:32:06,873 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:32:06,876 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:32:06,883 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:35:47,617 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:35:47,622 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:35:47,623 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:35:47,627 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:36:17,347 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:36:17,349 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:36:17,351 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:36:17,352 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:37:43,546 [Worker-63: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:37:43,546 [Worker-63: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 16:37:45,723 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:37:45,725 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:37:45,727 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:37:45,728 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:37:52,858 [Worker-62: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:37:52,858 [Worker-62: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 16:37:55,161 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:37:55,162 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:37:55,164 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:37:55,166 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:38:02,488 [Worker-62: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:38:02,488 [Worker-62: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 16:38:09,187 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:38:09,190 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:38:09,192 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:38:09,195 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:43:20,543 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-10 16:43:21,024 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1/pom.xml.
+2020-03-10 16:43:21,383 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/main/java
+2020-03-10 16:43:21,383 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/main/resources
+2020-03-10 16:43:21,384 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdatoolkit1/src/test/java
+2020-03-10 16:43:21,384 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lambdatoolkit1/src/test/resources
+2020-03-10 16:43:21,678 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-10 16:43:21,950 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:43:21,952 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:43:21,954 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:43:21,955 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:43:30,201 [Worker-79: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:43:30,202 [Worker-79: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 16:43:32,661 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:43:32,666 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:43:32,667 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:43:32,669 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:43:39,061 [Worker-73: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/lambdatoolkit1
+2020-03-10 16:43:39,062 [Worker-73: Launching AWS SAM Local lambdatoolkit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 16:43:46,098 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:43:46,111 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:43:46,120 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:43:46,138 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:48:50,419 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:48:50,423 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:48:50,425 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:48:50,426 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:50:15,889 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:4.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2/pom.xml.
+2020-03-10 16:50:16,363 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo2/src/main/java
+2020-03-10 16:50:16,364 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo2/src/main/resources
+2020-03-10 16:50:16,364 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo2/src/test/java
+2020-03-10 16:50:16,364 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo2/src/test/resources
+2020-03-10 16:50:25,038 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-10 16:50:25,909 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2/pom.xml.
+2020-03-10 16:50:26,395 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo2/src/main/java
+2020-03-10 16:50:26,397 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo2/src/main/resources
+2020-03-10 16:50:26,400 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo2/src/test/java
+2020-03-10 16:50:26,400 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo2/src/test/resources
+2020-03-10 16:50:33,806 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2020-03-10 16:50:34,453 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:50:34,457 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:50:34,487 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:50:34,518 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:57:20,787 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:57:20,792 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:57:20,800 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:57:20,804 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:57:36,469 [Worker-68: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2
+2020-03-10 16:57:36,470 [Worker-68: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-10 16:57:38,909 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:57:38,911 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:57:38,912 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:57:38,914 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:58:02,096 [Worker-92: Launching AWS SAM Local demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2
+2020-03-10 16:58:02,096 [Worker-92: Launching AWS SAM Local demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-10 16:58:11,197 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:58:11,205 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-10 16:58:11,206 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-10 16:58:11,208 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:00:11,176 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-11 11:00:14,722 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:00:14,738 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:00:14,744 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:00:14,747 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:03:10,460 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-11 11:03:11,569 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2/pom.xml.
+2020-03-11 11:03:12,262 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo2/src/main/java
+2020-03-11 11:03:12,263 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo2/src/main/resources
+2020-03-11 11:03:12,264 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo2/src/test/java
+2020-03-11 11:03:12,265 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo2/src/test/resources
+2020-03-11 11:03:12,489 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-03-11 11:03:12,963 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:03:12,964 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:03:12,969 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:03:12,971 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:06:45,800 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-11 11:07:28,321 [Worker-8: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2
+2020-03-11 11:07:28,323 [Worker-8: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-03-11 11:07:28,324 [Worker-8: Launching Executing clean in _Users_ravindra_Documents_workspace-spring-tool-suite-4-4.5.0.RELEASE_toolkitprojects_demo2] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-03-11 11:07:34,914 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:07:34,932 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:07:34,941 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:07:34,943 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:07:42,722 [Worker-8: Launching AWS SAM Local demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ravindra/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/toolkitprojects/demo2
+2020-03-11 11:07:42,722 [Worker-8: Launching AWS SAM Local demo2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2020-03-11 11:07:52,269 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:07:52,278 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 11:07:52,281 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-11 11:07:52,283 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 11:56:44,745 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

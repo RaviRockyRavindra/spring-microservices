@@ -1,0 +1,30 @@
+server:
+  port: 8086
+
+spring:
+  application:
+    name: zuul-proxy-server  
+    
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+     defaultZone: http://localhost:8761/eureka
+  instance:
+    hostname: localhost
+    
+    
+zuul:
+ ignored-services: '*' 
+ routes:
+   client-instance:
+     path: /resource/value
+     serviceId: client-instance
+     stripPrefix: true    
+   client-countries:
+     path: /countries/**
+     serviceId: client-countries
+     stripPrefix: false  
+          
+       
